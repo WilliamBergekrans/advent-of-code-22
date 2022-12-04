@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\willi\\advent-of-code-22\\DotnetSolutions\\DotnetSolutions.csproj": {}
+    "C:\\Users\\willi\\advent-of-code-22\\DotnetSolutions.csproj": {}
   },
   "projects": {
-    "C:\\Users\\willi\\advent-of-code-22\\DotnetSolutions\\DotnetSolutions.csproj": {
+    "C:\\Users\\willi\\advent-of-code-22\\DotnetSolutions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\willi\\advent-of-code-22\\DotnetSolutions\\DotnetSolutions.csproj",
+        "projectUniqueName": "C:\\Users\\willi\\advent-of-code-22\\DotnetSolutions.csproj",
         "projectName": "DotnetSolutions",
-        "projectPath": "C:\\Users\\willi\\advent-of-code-22\\DotnetSolutions\\DotnetSolutions.csproj",
+        "projectPath": "C:\\Users\\willi\\advent-of-code-22\\DotnetSolutions.csproj",
         "packagesPath": "C:\\Users\\willi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\willi\\advent-of-code-22\\DotnetSolutions\\obj\\",
+        "outputPath": "C:\\Users\\willi\\advent-of-code-22\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\willi\\AppData\\Roaming\\NuGet\\NuGet.Config"
